@@ -21,6 +21,7 @@
         "phpdocumentor/phpdocumentor": "~2.9",
         "jms/serializer": "1.7.1"
     },
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Parse\\": "src/Parse/"
